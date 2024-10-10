@@ -1,0 +1,11 @@
+# Editor
+.idea
+
+# Packages
+node_modules/
+
+# Build
+dist/
+
+# Env
+.env
